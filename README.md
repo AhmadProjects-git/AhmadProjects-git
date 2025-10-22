@@ -76,3 +76,9 @@ I enjoy solving complex technical challenges and continuously improving deployme
 ---
 
 ⭐️ From [Ahmad Hassan](https://github.com/AhmadProjects-git)
+
+---
+© 2025 Ahmad Hassan — All rights reserved.  
+Unauthorized copying, reproduction, or distribution of this README is prohibited.
+
+---
