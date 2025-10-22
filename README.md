@@ -53,27 +53,25 @@ I enjoy solving complex technical challenges and continuously improving deployme
 
 ---
 
-### 📊 GitHub Stats & Streaks
+### ** 📊 GitHub Stats & Streaks**
 ![Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmadHassan&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadHassan&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AhmadHassan&theme=tokyonight&hide_border=false)
 
 ---
 
-### 🔥 Contribution Activity
+### **🔥 Contribution Activity**
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AhmadHassan&bg_color=0D1117&color=79FE96&line=00AEFF&point=FFFFFF&area=true&hide_border=true)](https://github.com/AhmadHassan)
 
 ---
 
-### 🐍 Contribution Snake
-![GitHub Snake Animation](https://github.com/AhmadHassan/AhmadHassan/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmad-hassan-2980a927a)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadhassanofficala@gmail.com)
+<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-hassan-offical786)
+[![Email](https://img.shields.io/badge/Email-ahmadhassanofficala@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadhassanofficala@gmail.com)
+
+</div>
 
 ---
 
-⭐️ From [Ahmad Hassan](https://github.com/AhmadHassan)
+⭐️ From [Ahmad Hassan](https://github.com/AhmadProjects-git)
