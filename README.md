@@ -2,11 +2,12 @@
   
 # Hello To Everyone 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Developer+Advocate;DevOps+%26+Platform+Engineering;8%2B+Years+Experience;Cloud+Architecture+Expert)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=I'm+Ahmad+Hassan;DevOps+%26+Cloud+Engineer;2%2B+Years+Experience;Currently+Working+as+a+DevSecOps+Engineer)](https://git.io/typing-svg)
+
 
 </div>
 
-### 👨‍💻 About Me
+## 🚀 About Me
 I'm a DevOps Engineer passionate about **cloud infrastructure, CI/CD automation, and container orchestration**.  
 With 2 years of hands-on experience, I focus on building scalable, secure, and efficient environments using modern DevOps practices.  
 I enjoy solving complex technical challenges and continuously improving deployment processes through automation.
