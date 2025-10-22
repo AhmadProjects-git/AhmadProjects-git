@@ -6,7 +6,7 @@
 
 </div>
 
-## 🚀 About Me
+## **🚀 About Me**
 I'm a DevOps Engineer passionate about **cloud infrastructure, CI/CD automation, and container orchestration**.  
 With 2 years of hands-on experience, I focus on building scalable, secure, and efficient environments using modern DevOps practices.  
 I enjoy solving complex technical challenges and continuously improving deployment processes through automation.
@@ -42,7 +42,7 @@ I enjoy solving complex technical challenges and continuously improving deployme
 
 
 
-### ** 🖥️ Languages & Frameworks**
+### **🖥️ Languages & Frameworks**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
@@ -53,7 +53,7 @@ I enjoy solving complex technical challenges and continuously improving deployme
 
 ---
 
-### ** 📊 GitHub Stats & Streaks**
+### **📊 GitHub Stats & Streaks**
 ![Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmadHassan&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadHassan&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AhmadHassan&theme=tokyonight&hide_border=false)
@@ -65,7 +65,7 @@ I enjoy solving complex technical challenges and continuously improving deployme
 
 ---
 
-## 🌐 Connect With Me
+## **🌐 Connect With Me**
 
 <div align="center">
   
