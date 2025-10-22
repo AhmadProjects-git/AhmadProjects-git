@@ -65,9 +65,11 @@ I enjoy solving complex technical challenges and continuously improving deployme
 
 ---
 
-### 🌐 Connect with Me
+## 🌐 Connect With Me
+
 <div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-hassan-offical786)
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-hassan-2980a927a/)
 [![Email](https://img.shields.io/badge/Email-ahmadhassanofficala@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadhassanofficala@gmail.com)
 
 </div>
