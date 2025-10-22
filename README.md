@@ -69,9 +69,8 @@ I enjoy solving complex technical challenges and continuously improving deployme
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-hassan-2980a927a/)
-[![Email](https://img.shields.io/badge/Email-ahmadhassanofficala@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadhassanofficala@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmad-hassan-2980a927a)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadhassanofficala@gmail.com)
 </div>
 
 ---
