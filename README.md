@@ -2,8 +2,7 @@
   
 # Hello To Everyone 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=I'm+Ahmad+Hassan;DevOps+%26+Cloud+Engineer;2%2B+Years+Experience;Currently+Working+as+a+DevSecOps+Engineer)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=I'm+Ahmad+Hassan;DevOps+%26+Cloud+Engineer;Over+2+Years+of+Experience;Currently+Working+as+a+DevSecOps+Engineer)](https://git.io/typing-svg)
 
 </div>
 
@@ -11,11 +10,10 @@
 I'm a DevOps Engineer passionate about **cloud infrastructure, CI/CD automation, and container orchestration**.  
 With 2 years of hands-on experience, I focus on building scalable, secure, and efficient environments using modern DevOps practices.  
 I enjoy solving complex technical challenges and continuously improving deployment processes through automation.
-
- 🔭 Currently working on **cloud-native solutions**, **Artificial Intelligence solutions** and **DevOps/Platform engineering**
-- 🌱 Always learning about **emerging technologies** and **best practices**
-- 👯 Looking to collaborate on **open-source projects** and **DevOps initiatives**
-- 💬 Ask me about **Python, Cloud Architecture, DevOps, and Platform Engineering**
+  - 🔭 Currently working on **cloud-native solutions**, **Artificial Intelligence solutions** and **DevOps/Platform engineering**
+  - 🌱 Always learning about **emerging technologies** and **best practices**
+  - 👯 Looking to collaborate on **open-source projects** and **DevOps initiatives**
+  - 💬 Ask me about **Python, Cloud Architecture, DevOps, and Platform Engineering**
 ---
 
 ## 🛠️ Tech Stack
