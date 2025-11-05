@@ -71,9 +71,12 @@ I enjoy solving complex technical challenges and continuously improving deployme
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&amp;labelColor=282C34&amp;size=large&amp;fontsize=18)](https://www.linkedin.com/in/ahmad-offical786/)
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&amp;labelColor=282C34&amp;size=large&amp;fontsize=18)](mailto:ahmadhassanofficala@gmail.com)
 </div>
-  
+
+---
+<div align="center">
 ### **© Copyright Notice**
 
 **© 2025 Ahmad Hassan — All Rights Reserved.** This README and its content are the intellectual property of Ahmad Hassan. **Unauthorized reproduction, copying, or distribution** of this material, in whole or in part, without express written permission, is strictly **prohibited**.
 
 </div>
+---
