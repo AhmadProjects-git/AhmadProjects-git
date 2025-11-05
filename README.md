@@ -1,8 +1,9 @@
 <div align="center">
   
-# Hello To Everyone 👋
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=I'm+Ahmad+Hassan;DevOps+%26+Cloud+Engineer;Over+2+Years+of+Experience;Currently+Working+as+a+DevSecOps+Engineer)](https://git.io/typing-svg)
+# Welcome to My Profile 👋
+## Dedicated DevOps & Platform Engineer
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=DevOps+%26+Cloud+Engineer;Specializing+in+CI%2FCD+and+Automation;Currently+Working+as+a+DevSecOps+Engineer)](https://git.io/typing-svg)
 
 </div>
 
@@ -51,17 +52,24 @@ I enjoy solving complex technical challenges and continuously improving deployme
 
 ---
 
+<div align="center">
+  
 ### **📊 GitHub Stats & Streaks**
-![Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmadHassan&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadHassan&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AhmadHassan&theme=tokyonight&hide_border=false)
+| GitHub Stats | Top Languages | Contribution Streak |
+| :---: | :---: | :---: |
+| ![Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmadHassan&show_icons=true&theme=tokyonight&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadHassan&layout=compact&theme=tokyonight&hide_border=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AhmadHassan&theme=tokyonight&hide_border=true) |
+  
+</div>
 
 ---
 
-### **🔥 Contribution Activity**
+<div align="center">
+
+### **🔥 Contribution Activity Graph**
+  
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AhmadHassan&bg_color=0D1117&color=79FE96&line=00AEFF&point=FFFFFF&area=true&hide_border=true)](https://github.com/AhmadHassan)
 
----
+</div>
 
 ## **🌐 Connect With Me**
 
@@ -79,4 +87,3 @@ I enjoy solving complex technical challenges and continuously improving deployme
 **© 2025 Ahmad Hassan — All Rights Reserved.** This README and its content are the intellectual property of Ahmad Hassan. **Unauthorized reproduction, copying, or distribution** of this material, in whole or in part, without express written permission, is strictly **prohibited**.
 
 </div>
----
