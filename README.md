@@ -83,3 +83,21 @@ I enjoy solving complex technical challenges and continuously improving deployme
 Unauthorized copying, reproduction, or distribution of this README is prohibited.
 
 ---
+## **🌐 Connect With Me**
+
+<div align="center">
+  <p>I am always open to discussing new projects, collaboration opportunities, and complex technical challenges.</p>
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&amp;size=large)](https://www.linkedin.com/in/ahmad-offical786/) 
+  &nbsp;&nbsp;&nbsp;&nbsp; [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&amp;size=large)](mailto:ahmadhassanofficala@gmail.com)
+</div>
+
+---
+
+<div align="center">
+  
+### **© Copyright Notice**
+
+**© 2025 Ahmad Hassan — All Rights Reserved.** This README and its content are the intellectual property of Ahmad Hassan. **Unauthorized reproduction, copying, or distribution** of this material, in whole or in part, without express written permission, is strictly **prohibited**.
+
+</div>
