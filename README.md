@@ -22,7 +22,6 @@ I enjoy solving complex technical challenges and continuously improving deployme
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="70" height="70"/> &nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="70" height="70"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Microsoft_Azure.svg" alt="Azure logo" width="70" height="70" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="70" height="70"/> &nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="70" height="70"/> &nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="70" height="70"/> &nbsp;&nbsp;&nbsp;
@@ -50,7 +49,7 @@ I enjoy solving complex technical challenges and continuously improving deployme
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70"/>
 </p>
 
-
+---
 
 ### **📊 GitHub Stats & Streaks**
 ![Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmadHassan&show_icons=true&theme=tokyonight)
