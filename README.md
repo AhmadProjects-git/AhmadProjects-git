@@ -66,35 +66,11 @@ I enjoy solving complex technical challenges and continuously improving deployme
 ## **🌐 Connect With Me**
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-offical786/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadhassanofficala@gmail.com)
+  <p>I am always open to discussing new projects, collaboration opportunities, and complex technical challenges. Let's connect!</p>
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&amp;labelColor=282C34&amp;size=large&amp;fontsize=18)](https://www.linkedin.com/in/ahmad-offical786/)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&amp;labelColor=282C34&amp;size=large&amp;fontsize=18)](mailto:ahmadhassanofficala@gmail.com)
 </div>
-
----
-
-⭐️ From [Ahmad Hassan](https://www.linkedin.com/in/ahmad-offical786/)
-
-
-
-
----
-© 2025 Ahmad Hassan — All rights reserved.  
-Unauthorized copying, reproduction, or distribution of this README is prohibited.
-
----
-## **🌐 Connect With Me**
-
-<div align="center">
-  <p>I am always open to discussing new projects, collaboration opportunities, and complex technical challenges.</p>
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&amp;size=large)](https://www.linkedin.com/in/ahmad-offical786/) 
-  &nbsp;&nbsp;&nbsp;&nbsp; [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&amp;size=large)](mailto:ahmadhassanofficala@gmail.com)
-</div>
-
----
-
-<div align="center">
   
 ### **© Copyright Notice**
 
