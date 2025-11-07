@@ -85,7 +85,7 @@ I enjoy solving complex technical challenges and continuously improving deployme
 
 ---
 <div align="center">
-### **© Copyright Notice**
+ **© Copyright Notice**
 
 **© 2025 Ahmad Hassan — All Rights Reserved.** This README and its content are the intellectual property of Ahmad Hassan. **Unauthorized reproduction, copying, or distribution** of this material, in whole or in part, without express written permission, is strictly **prohibited**.
 
