@@ -1,9 +1,11 @@
 <div align="center">
-# Welcome to My Profile 👋
-  
-## Dedicated DevOps & Platform Engineer
 
-  
+# 👋 Welcome to My GitHub Profile  
+
+## 🚀 DevOps | Cloud | Platform Engineer  
+
+### 🧠 Passionate about Automation, CI/CD, and Cloud Infrastructure  
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=DevOps+%26+Cloud+Engineer;Specializing+in+CI%2FCD+and+Automation;Currently+Working+as+a+DevSecOps+Engineer)](https://git.io/typing-svg)
 
 </div>
