@@ -79,8 +79,13 @@ I enjoy solving complex technical challenges and continuously improving deployme
 <div align="center">
   <p>I am always open to discussing new projects, collaboration opportunities, and complex technical challenges. Let's connect!</p>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&amp;labelColor=282C34&amp;size=large&amp;fontsize=18)](https://www.linkedin.com/in/ahmad-offical786/)
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&amp;labelColor=282C34&amp;size=large&amp;fontsize=18)](mailto:ahmadhassanofficala@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=282C34&size=large&fontsize=18)](https://www.linkedin.com/in/ahmad-offical786/)
+  &nbsp;&nbsp;&nbsp;
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=282C34&size=large&fontsize=18)](mailto:ahmadhassanofficala@gmail.com)
+  &nbsp;&nbsp;&nbsp;
+  [![Credly](https://img.shields.io/badge/Credly-0A66C2?style=for-the-badge&logo=credly&logoColor=white&labelColor=282C34&size=large&fontsize=18)](https://www.credly.com/users/ahmad-hassan.786/badges#credly)
+  &nbsp;&nbsp;&nbsp;
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=282C34&size=large&fontsize=18)](https://x.com/ahmadismaild123)
 </div>
 
 ---
