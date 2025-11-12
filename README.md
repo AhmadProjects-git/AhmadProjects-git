@@ -6,7 +6,7 @@
 
 ### 🧠 Passionate about Automation, CI/CD, and Cloud Infrastructure  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=DevOps+%26+Cloud+Engineer;Specializing+in+CI%2FCD+and+Automation;Currently+Working+as+a+DevSecOps+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=👋+Hey+There!+I'm+Ahmad+Hassan;🚀+DevOps+%26+Cloud+Engineer;💻+2%2B+Years+of+Experience+in+Automation+%26+CI%2FCD;🔐+Currently+Working+as+a+DevSecOps+Engineer;🌟+Let's+Build+Something+Amazing!)](https://github.com/AhmadHassan)
 
 </div>
 
@@ -85,8 +85,8 @@ I enjoy solving complex technical challenges and continuously improving deployme
   &nbsp;&nbsp;&nbsp;
   [![Credly](https://img.shields.io/badge/Credly-0A66C2?style=for-the-badge&logo=credly&logoColor=white&labelColor=282C34&size=large&fontsize=18)](https://www.credly.com/users/ahmad-hassan.786/badges#credly)
   &nbsp;&nbsp;&nbsp;
- [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=282C34)](https://x.com/ahmadismaild123)
-  &nbsp;&nbsp;&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=282C34&size=large&fontsize=18)](https://x.com/ahmadismaild123)
+</div>
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=282C34)](https://github.com/AhmadHassan)
 </div>
   
