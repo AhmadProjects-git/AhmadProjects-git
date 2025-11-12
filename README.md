@@ -44,8 +44,6 @@ I enjoy solving complex technical challenges and continuously improving deployme
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="elasticsearch" width="70" height="70"/>
 </p>
 
----
-
 ### **🖥️ Languages & Frameworks**
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="70"/> &nbsp;&nbsp;&nbsp;
@@ -88,6 +86,7 @@ I enjoy solving complex technical challenges and continuously improving deployme
   [![Credly](https://img.shields.io/badge/Credly-0A66C2?style=for-the-badge&logo=credly&logoColor=white&labelColor=282C34&size=large&fontsize=18)](https://www.credly.com/users/ahmad-hassan.786/badges#credly)
   &nbsp;&nbsp;&nbsp;
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=282C34&size=large&fontsize=18)](https://x.com/ahmadismaild123)
+  &nbsp;&nbsp;&nbsp;
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=282C34)](https://github.com/AhmadHassan)
 </div>
   
