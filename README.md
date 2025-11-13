@@ -79,6 +79,8 @@ I enjoy solving complex technical challenges and continuously improving deployme
 <div align="center">
   <p>I am always open to discussing new projects, collaboration opportunities, and complex technical challenges. Let's connect!</p>
 
+  [![Portfolio](https://img.shields.io/badge/Portfolio-4B0082?style=for-the-badge&logo=firefox&logoColor=white&labelColor=282C34&size=large&fontsize=18)](https://ahmadprojects-git.github.io/Portfolio/)
+  &nbsp;&nbsp;&nbsp;
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=282C34&size=large&fontsize=18)](https://www.linkedin.com/in/ahmad-offical786/)
   &nbsp;&nbsp;&nbsp;
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=282C34&size=large&fontsize=18)](mailto:ahmadhassanofficala@gmail.com)
