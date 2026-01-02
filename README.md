@@ -6,7 +6,7 @@
 
 ### 🧠 Passionate about Automation, CI/CD, and Cloud Infrastructure
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=👋+Hey+There!+I'm+Ahmad+Hassan;🚀+DevOps+%26+Cloud+Engineer;💻+2%2B+Years+of+Experience+in+Automation+%26+CI%2FCD;🔐+Currently+Working+as+a+DevSecOps+Engineer;🌟+Let's+Build+Something+Amazing!)](https://github.com/AhmadHassan)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=👋+Hey+There!+I'm+Ahmad+Hassan;🚀+DevOps+%26+Cloud+Engineer;💻+2%2B+Years+of+Experience+in+Automation+%26+CI%2FCD;🔐+Currently+Working+as+a+DevSecOps+Engineer;🌟+Let's+Build+Something+Amazing!)](https://github.com/AhmadProjects-git)
 
 </div>
 
@@ -68,17 +68,21 @@ I enjoy solving complex technical challenges and continuously improving deployme
 
 | **Certification Name** | **Issuing Organization** | **Issued** |
 | :--- | :--- | :--- |
-| **Running Kubernetes on AWS (EKS)** | LinkedIn Learning | Dec 2025 |
-| **Introduction to AWS CloudFormation** | LinkedIn Learning | Dec 2025 |
-| **AWS Cloud Practitioner Essentials** | AWS Training | Dec 2025 |
-| **Python for Non-Programmers** | LinkedIn Learning | Dec 2025 |
-| **Explore Generative AI (Vertex AI)** | Google Cloud | Nov 2025 |
-| **AWS Certified Cloud Practitioner** | Amazon Web Services | Oct 2025 |
-| **AWS Academy Graduate - Cloud Foundations** | Amazon Web Services | Jun 2025 |
-| **Elastic Load Balancing - Troubleshooting** | AWS Training | May 2025 |
-| **DevOps Engineer Expert** | Corvit Systems | Oct 2023 |
-| **Certified Linux Administrator** | Great Learning | Feb 2023 |
-| **Introduction to Cyber Security** | Cisco Networking Academy | Aug 2022 |
+| <img src="https://cdn.simpleicons.org/comptia/FF0000" width="20"/> **DevOps Foundations: Microservices** | CompTIA | Jan 2026 |
+| <img src="https://cdn.simpleicons.org/docker/2496ED" width="20"/> **Learning Docker Compose** | LinkedIn Learning | Jan 2026 |
+| <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="20"/> **Application Security in DevSecOps** | LinkedIn Learning | Dec 2025 |
+| <img src="https://cdn.simpleicons.org/docker/2496ED" width="20"/> **Docker: Your First Project** | LinkedIn Learning | Dec 2025 |
+| <img src="https://cdn.simpleicons.org/amazonaws/232F3E" width="20"/> **Introduction to AWS CloudFormation** | LinkedIn Learning | Dec 2025 |
+| <img src="https://cdn.simpleicons.org/amazonaws/232F3E" width="20"/> **Running Kubernetes on AWS (EKS)** | LinkedIn Learning | Dec 2025 |
+| <img src="https://cdn.simpleicons.org/amazonaws/232F3E" width="20"/> **AWS Cloud Practitioner Essentials** | AWS Training | Dec 2025 |
+| <img src="https://cdn.simpleicons.org/python/3776AB" width="20"/> **Python for Non-Programmers** | LinkedIn Learning | Dec 2025 |
+| <img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="20"/> **Explore Generative AI (Vertex AI)** | Google Cloud | Nov 2025 |
+| <img src="https://cdn.simpleicons.org/amazonaws/232F3E" width="20"/> **AWS Certified Cloud Practitioner** | Amazon Web Services | Oct 2025 |
+| <img src="https://cdn.simpleicons.org/amazonaws/232F3E" width="20"/> **AWS Academy Graduate - Cloud Foundations** | Amazon Web Services | Jun 2025 |
+| <img src="https://cdn.simpleicons.org/amazonaws/232F3E" width="20"/> **Elastic Load Balancing - Troubleshooting** | AWS Training | May 2025 |
+| <img src="https://cdn.simpleicons.org/gnu-bash/4EAA25" width="20"/> **DevOps Engineer Expert** | Corvit Systems | Oct 2023 |
+| <img src="https://cdn.simpleicons.org/linux/FCC624" width="20"/> **Certified Linux Administrator** | Great Learning | Feb 2023 |
+| <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="20"/> **Introduction to Cyber Security** | Cisco Networking Academy | Aug 2022 |
 
 </div>
 
@@ -90,7 +94,7 @@ I enjoy solving complex technical challenges and continuously improving deployme
 
 | GitHub Stats | Top Languages | Contribution Streak |
 | :---: | :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=AhmadHassan&show_icons=true&theme=tokyonight&hide_border=true" alt="Ahmad's GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadHassan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> | <img src="https://streak-stats.demolab.com/?user=AhmadHassan&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=AhmadProjects-git&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadProjects-git&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> | <img src="https://streak-stats.demolab.com/?user=AhmadProjects-git&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> |
 
 </div>
 
@@ -100,7 +104,7 @@ I enjoy solving complex technical challenges and continuously improving deployme
 
 ### **🔥 Contribution Activity Graph**
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AhmadHassan&bg_color=0D1117&color=79FE96&line=00AEFF&point=FFFFFF&area=true&hide_border=true)](https://github.com/AhmadHassan)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AhmadProjects-git&bg_color=0D1117&color=79FE96&line=00AEFF&point=FFFFFF&area=true&hide_border=true)](https://github.com/AhmadProjects-git)
 
 </div>
 
@@ -119,7 +123,7 @@ I enjoy solving complex technical challenges and continuously improving deployme
   &nbsp;&nbsp;&nbsp;
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=282C34&size=large&fontsize=18)](https://x.com/ahmadismaild123)
   &nbsp;&nbsp;&nbsp;
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=282C34)](https://github.com/AhmadHassan)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=282C34)](https://github.com/AhmadProjects-git)
 </div>
 
 ---
