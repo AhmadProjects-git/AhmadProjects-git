@@ -62,39 +62,32 @@ I enjoy solving complex technical challenges and continuously improving deployme
 <div align="center">
   
   <a href="https://www.credly.com/users/ahmad-hassan.786/badges">
-    <img src="https://img.shields.io/badge/View_My_Verified_Credentials-2E8B57?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badges"/>
+    <img src="https://img.shields.io/badge/View_My_Verified_Credentials-2E8B57?style=flat&logo=credly&logoColor=white" alt="Credly Badges"/>
   </a>
   <br><br>
 
-  ### **☁️ Cloud & DevOps (AWS, Google, CompTIA)**
+  <h3><b>☁️ Cloud & AI</b></h3>
   <p>
-    <img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified Cloud Practitioner" />
-    <img src="https://img.shields.io/badge/AWS-Academy_Graduate-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Academy Graduate" />
-    <img src="https://img.shields.io/badge/Google_Cloud-Explore_Generative_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Explore Generative AI" />
-    <img src="https://img.shields.io/badge/CompTIA-DevOps_Foundations-FF0000?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA DevOps Foundations: Microservices" />
+    <img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+    <img src="https://img.shields.io/badge/AWS-Academy_Graduate-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+    <img src="https://img.shields.io/badge/Google_Cloud-Explore_Generative_AI-4285F4?style=flat&logo=google-cloud&logoColor=white" />
+    <img src="https://img.shields.io/badge/AWS-Introduction_to_CloudFormation-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
   </p>
 
-  ### **🐳 Containers & Kubernetes**
+  <h3><b>🚀 DevOps & Containers</b></h3>
   <p>
-    <img src="https://img.shields.io/badge/Docker-Learning_Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Learning Docker Compose" />
-    <img src="https://img.shields.io/badge/Docker-Your_First_Project-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker: Your First Project" />
-    <img src="https://img.shields.io/badge/AWS-Running_Kubernetes_on_AWS_(EKS)-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Running Kubernetes on AWS (EKS)" />
+    <img src="https://img.shields.io/badge/Docker-Learning_Docker_Compose-2496ED?style=flat&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/CompTIA-DevOps_Foundations-FF0000?style=flat&logo=comptia&logoColor=white" />
+    <img src="https://img.shields.io/badge/AWS-Running_Kubernetes_on_AWS_(EKS)-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+    <img src="https://img.shields.io/badge/Corvit-DevOps_Engineer_Expert-4EAA25?style=flat&logo=gnu-bash&logoColor=white" />
   </p>
 
-  ### **💻 Programming & Security**
+  <h3><b>🔐 Security & Development</b></h3>
   <p>
-    <img src="https://img.shields.io/badge/Python-for_Non--Programmers-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python for Non-Programmers" />
-    <img src="https://img.shields.io/badge/LinkedIn-Application_Security_in_DevSecOps-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Application Security in DevSecOps" />
-    <img src="https://img.shields.io/badge/Cisco-Introduction_to_Cyber_Security-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Introduction to Cyber Security" />
-  </p>
-
-  ### **📜 Other Professional Certifications**
-  <p>
-    <img src="https://img.shields.io/badge/Corvit-DevOps_Engineer_Expert-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="DevOps Engineer Expert" />
-    <img src="https://img.shields.io/badge/Great_Learning-Certified_Linux_Administrator-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Certified Linux Administrator" />
-    <img src="https://img.shields.io/badge/AWS-Introduction_to_CloudFormation-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Introduction to AWS CloudFormation" />
-    <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner_Essentials-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Cloud Practitioner Essentials" />
-    <img src="https://img.shields.io/badge/AWS-Elastic_Load_Balancing-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Elastic Load Balancing" />
+    <img src="https://img.shields.io/badge/Python-for_Non--Programmers-3776AB?style=flat&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Application_Security_in_DevSecOps-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Cisco-Introduction_to_Cyber_Security-1BA0D7?style=flat&logo=cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/Great_Learning-Certified_Linux_Administrator-FCC624?style=flat&logo=linux&logoColor=black" />
   </p>
 
 </div>
