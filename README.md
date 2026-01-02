@@ -68,21 +68,21 @@ I enjoy solving complex technical challenges and continuously improving deployme
 
 | **Certification Name** | **Issuing Organization** | **Issued** |
 | :--- | :--- | :--- |
-| <img src="https://cdn.simpleicons.org/comptia/FF0000" width="20"/> **DevOps Foundations: Microservices** | CompTIA | Jan 2026 |
-| <img src="https://cdn.simpleicons.org/docker/2496ED" width="20"/> **Learning Docker Compose** | LinkedIn Learning | Jan 2026 |
-| <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="20"/> **Application Security in DevSecOps** | LinkedIn Learning | Dec 2025 |
-| <img src="https://cdn.simpleicons.org/docker/2496ED" width="20"/> **Docker: Your First Project** | LinkedIn Learning | Dec 2025 |
-| <img src="https://cdn.simpleicons.org/amazonaws/232F3E" width="20"/> **Introduction to AWS CloudFormation** | LinkedIn Learning | Dec 2025 |
-| <img src="https://cdn.simpleicons.org/amazonaws/232F3E" width="20"/> **Running Kubernetes on AWS (EKS)** | LinkedIn Learning | Dec 2025 |
-| <img src="https://cdn.simpleicons.org/amazonaws/232F3E" width="20"/> **AWS Cloud Practitioner Essentials** | AWS Training | Dec 2025 |
-| <img src="https://cdn.simpleicons.org/python/3776AB" width="20"/> **Python for Non-Programmers** | LinkedIn Learning | Dec 2025 |
-| <img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="20"/> **Explore Generative AI (Vertex AI)** | Google Cloud | Nov 2025 |
-| <img src="https://cdn.simpleicons.org/amazonaws/232F3E" width="20"/> **AWS Certified Cloud Practitioner** | Amazon Web Services | Oct 2025 |
-| <img src="https://cdn.simpleicons.org/amazonaws/232F3E" width="20"/> **AWS Academy Graduate** | Amazon Web Services | Jun 2025 |
-| <img src="https://cdn.simpleicons.org/amazonaws/232F3E" width="20"/> **Elastic Load Balancing** | AWS Training | May 2025 |
-| 🎓 **DevOps Engineer Expert** | Corvit Systems | Oct 2023 |
-| 🐧 **Certified Linux Administrator** | Great Learning | Feb 2023 |
-| <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="20"/> **Introduction to Cyber Security** | Cisco Networking Academy | Aug 2022 |
+| ![CompTIA](https://img.shields.io/badge/CompTIA-FF0000?logo=comptia&logoColor=white) **DevOps Foundations: Microservices** | CompTIA | Jan 2026 |
+| ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) **Learning Docker Compose** | LinkedIn Learning | Jan 2026 |
+| ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white) **Application Security in DevSecOps** | LinkedIn Learning | Dec 2025 |
+| ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) **Docker: Your First Project** | LinkedIn Learning | Dec 2025 |
+| ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) **Introduction to AWS CloudFormation** | LinkedIn Learning | Dec 2025 |
+| ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) **Running Kubernetes on AWS (EKS)** | LinkedIn Learning | Dec 2025 |
+| ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) **AWS Cloud Practitioner Essentials** | AWS Training | Dec 2025 |
+| ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) **Python for Non-Programmers** | LinkedIn Learning | Dec 2025 |
+| ![Google](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white) **Explore Generative AI (Vertex AI)** | Google Cloud | Nov 2025 |
+| ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) **AWS Certified Cloud Practitioner** | Amazon Web Services | Oct 2025 |
+| ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) **AWS Academy Graduate** | Amazon Web Services | Jun 2025 |
+| ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) **Elastic Load Balancing** | AWS Training | May 2025 |
+| ![Corvit](https://img.shields.io/badge/DevOps-Engineer-4EAA25?logo=gnu-bash&logoColor=white) **DevOps Engineer Expert** | Corvit Systems | Oct 2023 |
+| ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) **Certified Linux Administrator** | Great Learning | Feb 2023 |
+| ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?logo=cisco&logoColor=white) **Introduction to Cyber Security** | Cisco Academy | Aug 2022 |
 
 </div>
 
@@ -92,13 +92,9 @@ I enjoy solving complex technical challenges and continuously improving deployme
 
 ### **📊 GitHub Stats & Streaks**
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AhmadProjects-git&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadProjects-git&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=AhmadProjects-git&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+![Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmadProjects-git&show_icons=true&theme=tokyonight&hide_border=true)<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadProjects-git&layout=compact&theme=tokyonight&hide_border=true)<br/>
+![GitHub Streak](https://streak-stats.demolab.com/?user=AhmadProjects-git&theme=tokyonight&hide_border=true)
 
 </div>
 
