@@ -66,23 +66,36 @@ I enjoy solving complex technical challenges and continuously improving deployme
   </a>
   <br><br>
 
-| **Certification Name** | **Issuing Organization** | **Issued** |
-| :--- | :--- | :--- |
-| ![CompTIA](https://img.shields.io/badge/CompTIA-FF0000?logo=comptia&logoColor=white) **DevOps Foundations: Microservices** | CompTIA | Jan 2026 |
-| ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) **Learning Docker Compose** | LinkedIn Learning | Jan 2026 |
-| ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white) **Application Security in DevSecOps** | LinkedIn Learning | Dec 2025 |
-| ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) **Docker: Your First Project** | LinkedIn Learning | Dec 2025 |
-| ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) **Introduction to AWS CloudFormation** | LinkedIn Learning | Dec 2025 |
-| ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) **Running Kubernetes on AWS (EKS)** | LinkedIn Learning | Dec 2025 |
-| ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) **AWS Cloud Practitioner Essentials** | AWS Training | Dec 2025 |
-| ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) **Python for Non-Programmers** | LinkedIn Learning | Dec 2025 |
-| ![Google](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white) **Explore Generative AI (Vertex AI)** | Google Cloud | Nov 2025 |
-| ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) **AWS Certified Cloud Practitioner** | Amazon Web Services | Oct 2025 |
-| ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) **AWS Academy Graduate** | Amazon Web Services | Jun 2025 |
-| ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) **Elastic Load Balancing** | AWS Training | May 2025 |
-| ![Corvit](https://img.shields.io/badge/DevOps-Engineer-4EAA25?logo=gnu-bash&logoColor=white) **DevOps Engineer Expert** | Corvit Systems | Oct 2023 |
-| ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) **Certified Linux Administrator** | Great Learning | Feb 2023 |
-| ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?logo=cisco&logoColor=white) **Introduction to Cyber Security** | Cisco Academy | Aug 2022 |
+  ### **☁️ Cloud & DevOps (AWS, Google, CompTIA)**
+  <p>
+    <img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified Cloud Practitioner" />
+    <img src="https://img.shields.io/badge/AWS-Academy_Graduate-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Academy Graduate" />
+    <img src="https://img.shields.io/badge/Google_Cloud-Explore_Generative_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Explore Generative AI" />
+    <img src="https://img.shields.io/badge/CompTIA-DevOps_Foundations-FF0000?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA DevOps Foundations: Microservices" />
+  </p>
+
+  ### **🐳 Containers & Kubernetes**
+  <p>
+    <img src="https://img.shields.io/badge/Docker-Learning_Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Learning Docker Compose" />
+    <img src="https://img.shields.io/badge/Docker-Your_First_Project-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker: Your First Project" />
+    <img src="https://img.shields.io/badge/AWS-Running_Kubernetes_on_AWS_(EKS)-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Running Kubernetes on AWS (EKS)" />
+  </p>
+
+  ### **💻 Programming & Security**
+  <p>
+    <img src="https://img.shields.io/badge/Python-for_Non--Programmers-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python for Non-Programmers" />
+    <img src="https://img.shields.io/badge/LinkedIn-Application_Security_in_DevSecOps-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Application Security in DevSecOps" />
+    <img src="https://img.shields.io/badge/Cisco-Introduction_to_Cyber_Security-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Introduction to Cyber Security" />
+  </p>
+
+  ### **📜 Other Professional Certifications**
+  <p>
+    <img src="https://img.shields.io/badge/Corvit-DevOps_Engineer_Expert-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="DevOps Engineer Expert" />
+    <img src="https://img.shields.io/badge/Great_Learning-Certified_Linux_Administrator-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Certified Linux Administrator" />
+    <img src="https://img.shields.io/badge/AWS-Introduction_to_CloudFormation-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Introduction to AWS CloudFormation" />
+    <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner_Essentials-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Cloud Practitioner Essentials" />
+    <img src="https://img.shields.io/badge/AWS-Elastic_Load_Balancing-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Elastic Load Balancing" />
+  </p>
 
 </div>
 
@@ -92,9 +105,10 @@ I enjoy solving complex technical challenges and continuously improving deployme
 
 ### **📊 GitHub Stats & Streaks**
 
-![Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmadProjects-git&show_icons=true&theme=tokyonight&hide_border=true)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadProjects-git&layout=compact&theme=tokyonight&hide_border=true)<br/>
-![GitHub Streak](https://streak-stats.demolab.com/?user=AhmadProjects-git&theme=tokyonight&hide_border=true)
+| <img src="https://github-readme-stats.vercel.app/api?username=AhmadProjects-git&show_icons=true&theme=tokyonight&hide_border=true" width="400" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadProjects-git&layout=compact&theme=tokyonight&hide_border=true" width="400" /> |
+| :---: | :---: |
+
+<img src="https://streak-stats.demolab.com/?user=AhmadProjects-git&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
