@@ -78,10 +78,10 @@ I enjoy solving complex technical challenges and continuously improving deployme
 | <img src="https://cdn.simpleicons.org/python/3776AB" width="20"/> **Python for Non-Programmers** | LinkedIn Learning | Dec 2025 |
 | <img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="20"/> **Explore Generative AI (Vertex AI)** | Google Cloud | Nov 2025 |
 | <img src="https://cdn.simpleicons.org/amazonaws/232F3E" width="20"/> **AWS Certified Cloud Practitioner** | Amazon Web Services | Oct 2025 |
-| <img src="https://cdn.simpleicons.org/amazonaws/232F3E" width="20"/> **AWS Academy Graduate - Cloud Foundations** | Amazon Web Services | Jun 2025 |
-| <img src="https://cdn.simpleicons.org/amazonaws/232F3E" width="20"/> **Elastic Load Balancing - Troubleshooting** | AWS Training | May 2025 |
-| <img src="https://cdn.simpleicons.org/gnu-bash/4EAA25" width="20"/> **DevOps Engineer Expert** | Corvit Systems | Oct 2023 |
-| <img src="https://cdn.simpleicons.org/linux/FCC624" width="20"/> **Certified Linux Administrator** | Great Learning | Feb 2023 |
+| <img src="https://cdn.simpleicons.org/amazonaws/232F3E" width="20"/> **AWS Academy Graduate** | Amazon Web Services | Jun 2025 |
+| <img src="https://cdn.simpleicons.org/amazonaws/232F3E" width="20"/> **Elastic Load Balancing** | AWS Training | May 2025 |
+| 🎓 **DevOps Engineer Expert** | Corvit Systems | Oct 2023 |
+| 🐧 **Certified Linux Administrator** | Great Learning | Feb 2023 |
 | <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="20"/> **Introduction to Cyber Security** | Cisco Networking Academy | Aug 2022 |
 
 </div>
@@ -92,9 +92,13 @@ I enjoy solving complex technical challenges and continuously improving deployme
 
 ### **📊 GitHub Stats & Streaks**
 
-| GitHub Stats | Top Languages | Contribution Streak |
-| :---: | :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=AhmadProjects-git&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadProjects-git&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> | <img src="https://streak-stats.demolab.com/?user=AhmadProjects-git&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> |
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AhmadProjects-git&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadProjects-git&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=AhmadProjects-git&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 </div>
 
